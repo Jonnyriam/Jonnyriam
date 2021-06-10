@@ -1,1 +1,3 @@
-https://github-readme-stats.vercel.app/api?username=Jonnyriam&hide_title=true&theme=dark
+<p align="center">
+    <img src="headergithubjonny.png" alt="Header" />
+</p>
