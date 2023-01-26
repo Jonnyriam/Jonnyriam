@@ -44,6 +44,7 @@
 	<br>
 	<b>Tools:</b>
 	<p>
+		<br>
 		The ones I feel more <b>comfortable</b> working with:
 		<br><br>
 		<img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity,blender,github,ps,ae" height=45px> 
