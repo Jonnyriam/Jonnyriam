@@ -1,4 +1,4 @@
-<img src="jonny-header-image.png"/>
+<img src="jonnyheaderimage.png"/>
 
 <p>
 	<h3>About me</h3>
