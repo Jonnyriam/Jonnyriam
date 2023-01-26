@@ -1,5 +1,4 @@
-<img scr="https://user-images.githubusercontent.com/47785504/214736181-92b52e4c-131c-420f-8fb4-f5c96a4c3e13.png">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonnyriam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark&hide_rank=true" align="right"/>
+<img scr="github-header-image.png">
 <p align="left">
 	<h3>About me:</h3>
 	Hello! My name is <b>Jonny</b>, I'm a 22 years old Game Dev from <b>Portugal</b>.<br>
@@ -8,6 +7,8 @@
 </p>
 <hr>
 <p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonnyriam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark&hide_rank=true" align="right"/>
 	<h3>About my skills</h3>
 	Along my road I gathered some skills, some easy others quite the opposite.<br>
 	For some more details, have a check on the lists down below!
@@ -68,7 +69,6 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat&logoColor=white" height=25px><br>
 </p>
 <p align="center">
-	
 	<br><br>
 </p>
 <hr>
