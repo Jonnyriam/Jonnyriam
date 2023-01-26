@@ -42,7 +42,7 @@
 		<img src="https://skillicons.dev/icons?i=django,bootstrap,react" height=45px>
 	</p>
 	<br>
-	<b>Tools:</b>
+	<p style="font-size:45px ;"><b>Tools:</b></p>
 	<p>
 		<br>
 		The ones I feel more <b>comfortable</b> working with:
