@@ -1,4 +1,4 @@
-<img scr="github-header-image.png">
+<img scr="jonny-header-image.png" alt="Header">
 <p align="left">
 	<h3>About me:</h3>
 	Hello! My name is <b>Jonny</b>, I'm a 22 years old Game Dev from <b>Portugal</b>.<br>
