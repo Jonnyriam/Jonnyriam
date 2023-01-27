@@ -8,7 +8,7 @@
 </p>
 <a href="https://instagram.com/jonny_soares"><img src="https://img.shields.io/badge/-jonny__soares-E4405F?logo=instagram&logoColor=white" height=25px></a>
 <a href="https://www.linkedin.com/in/jonnyriam/"><img src="https://img.shields.io/badge/-jonnyriam-0A66C2?logo=linkedin&logoColor=white" height=25px></a>
-<a href="//https://www.reddit.com/user/Jonnyriam"><img src="https://img.shields.io/badge/-Jonnyriam-FF4500?logo=reddit&logoColor=white" height=25px></a>
+<a href="https://www.reddit.com/user/Jonnyriam"><img src="https://img.shields.io/badge/-Jonnyriam-FF4500?logo=reddit&logoColor=white" height=25px></a>
 <a href=""><img src="https://img.shields.io/badge/-Jonnyriam%230001-5865F2?logo=discord&logoColor=white" height=25px></a>
 <hr>
 <p>
