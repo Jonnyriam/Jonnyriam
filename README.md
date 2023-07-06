@@ -35,7 +35,7 @@
 		<br><br>
 		<img src="https://skillicons.dev/icons?i=angular,dotnet,nodejs" height=45px> 
 		<br>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnyriam&hide_title=true&theme=onedark&hide_border=true&langs_count=10" alt="My top languages" align="right"/>
+		<img src="https://github-readme-stats-sand-tau-28.vercel.app/api/top-langs/?username=Jonnyriam&hide_title=true&theme=onedark&hide_border=true&langs_count=10" alt="My top languages" align="right"/>
 		<p>
 		Other frameworks I also work on:
 		<br><br>
