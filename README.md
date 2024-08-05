@@ -2,7 +2,7 @@
 
 <p>
 	<h3>About me</h3>
-	Hello! :wave: My name is <b>Jonny</b>, I'm a 24 years old Game Dev from <b>Portugal</b> ( :portugal: ).<br>
+	Hello! :wave: My name is <b>Jonny</b>, I'm a 24 years old Software Developer from <b>Portugal</b> ( :portugal: ).<br>
 	I was always passionate about programming and games, so why not combine both and do the best from both worlds?<br>
 	Well, I did! I've done some freelancing and solo development in the past, but currently I'm working on a <b>Web3</b> game project.
 </p>
