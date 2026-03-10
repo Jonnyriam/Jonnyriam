@@ -2,14 +2,11 @@
 
 <p>
 	<h3>About me</h3>
-	Hello! :wave: My name is <b>Jonny</b>, I'm a 24 years old Software Developer from <b>Portugal</b> ( :portugal: ).<br>
+	Hello! :wave: My name is <b>Jonny</b>, I'm a 25 years old Software Developer from <b>Portugal</b> ( :portugal: ).<br>
 	I was always passionate about programming and games, so why not combine both and do the best from both worlds?<br>
 	Well, I did! I've done some freelancing and solo development in the past, but currently I'm working on a <b>Web3</b> game project.
 </p>
-<a href="https://instagram.com/jonny_soares"><img src="https://img.shields.io/badge/-jonny__soares-E4405F?logo=instagram&logoColor=white" height=25px></a>
 <a href="https://www.linkedin.com/in/jonnyriam/"><img src="https://img.shields.io/badge/-jonnyriam-0A66C2?logo=linkedin&logoColor=white" height=25px></a>
-<a href="https://www.reddit.com/user/Jonnyriam"><img src="https://img.shields.io/badge/-Jonnyriam-FF4500?logo=reddit&logoColor=white" height=25px></a>
-<a href=""><img src="https://img.shields.io/badge/-Jonnyriam%230001-5865F2?logo=discord&logoColor=white" height=25px></a>
 <hr>
 <p>
 	<h3>About my skills :ledger:</h3>
