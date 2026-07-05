@@ -1,53 +1,33 @@
-<img src="jonnyheaderimage.png"/>
+### Hi, I'm João 👋
 
-<p>
-	<h3>About me</h3>
-	Hello! :wave: My name is <b>Jonny</b>, I'm a 25 years old Software Developer from <b>Portugal</b> ( :portugal: ).<br>
-</p>
-<a href="https://www.linkedin.com/in/jonnyriam/"><img src="https://img.shields.io/badge/-jonnyriam-0A66C2?logo=linkedin&logoColor=white" height=25px></a>
-<hr>
-<p>
-	<h3>About my skills :ledger:</h3>
-	Along my road I gathered some skills, some easy others quite the opposite.<br><br>
-	<b>Languages:</b>
-	<p>
-		<p>
-			<img height="180em" src="https://github-readme-stats-chi-pied-47.vercel.app/api?username=Jonnyriam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark&hide_rank=true" align="right"/>
-		</p>
-		The ones I feel more <b>comfortable</b> working with:
-		<br><br>
-		<img src="https://skillicons.dev/icons?i=cs,cpp,c,kotlin" height=45px>
-		<p>
-		Other languages I also know:
-		<br><br>
-		<img src="https://skillicons.dev/icons?i=js,typescript,lua,py,html,css,mysql,java,swift" height=45px>
-	</p>
-	<br>
-	<b>Frameworks:</b>
-	<p>
-		<br>
-		The ones I feel more <b>comfortable</b> working with:
-		<br><br>
-		<img src="https://skillicons.dev/icons?i=angular,dotnet,nodejs" height=45px> 
-		<br>
-		<img src="https://github-readme-stats-chi-pied-47.vercel.app/api/top-langs/?username=Jonnyriam&hide_title=true&theme=onedark&hide_border=true&langs_count=10" alt="My top languages" align="right"/>
-		<p>
-		Other frameworks I also work on:
-		<br><br>
-		<img src="https://skillicons.dev/icons?i=django,bootstrap,react" height=45px>
-	</p>
-	<br>
-	<b>Tools:</b>
-	<p>
-		<br>
-		The ones I feel more <b>comfortable</b> working with:
-		<br><br>
-		<img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity,blender,github,ps,ae" height=45px> 
-		<br>
-		<p>
-		I also work/worked with these:
-		<br><br>
-		<img src="https://skillicons.dev/icons?i=git,gitlab,unrealengine,ps,godot" height=45px><br>
-		<img src="https://skillicons.dev/icons?i=figma,heroku" height=45px>
-	</p>
-</p>
+**Backend Software Engineer · C#/.NET · Portugal** 🇵🇹
+
+I build and harden the backend of production systems — APIs, billing, integrations
+and the data layers behind them. Spent ~2 years shipping a multi-tenant B2B SaaS
+platform in C#/.NET; on the side I build algorithmic trading systems.
+
+🔗 **[Portfolio](https://jonnyportfolio.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/jonnyriam)** · 📄 **[Résumé](https://jonnyportfolio.vercel.app/cv/joao-soares-cv.pdf)**
+
+---
+
+#### 🛠️ Stack
+**Languages** — C# · SQL · TypeScript
+**Backend** — .NET · ASP.NET Core · REST · gRPC · Entity Framework · Blazor
+**Data & Cloud** — SQL Server · PostgreSQL · Redis · Azure · Docker
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,azure,docker,ts,git" height="42"/>
+
+---
+
+#### 🚀 Featured
+- **Crypto Trading Bot** — freqtrade-based system with a machine-learning signal layer, validated through a rigorous walk-forward and lockbox backtesting harness.
+- **Sonya Creations** — live bilingual storefront & order-management platform on Blazor Server / .NET, covering the full order lifecycle.
+
+---
+
+<img height="160" src="https://github-readme-stats-chi-pied-47.vercel.app/api?username=Jonnyriam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark&hide_rank=true"/>
+<img height="160" src="https://github-readme-stats-chi-pied-47.vercel.app/api/top-langs/?username=Jonnyriam&hide_title=true&hide_border=true&count_private=true&theme=onedark&langs_count=8&layout=compact"/>
+
+---
+
+💬 Open to backend / platform engineering roles — reach me on [LinkedIn](https://www.linkedin.com/in/jonnyriam) or [email](mailto:joao.soares.professional@gmail.com).
