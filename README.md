@@ -4,8 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jonnyportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonnyriam)
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-22d3ee?style=for-the-badge&logo=readme&logoColor=white)](https://jonnyportfolio.vercel.app/cv/joao-soares-cv.pdf)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.soares.professional@gmail.com)
 
 </div>
 
@@ -53,9 +51,7 @@ Blazor Server / .NET, covering the full order lifecycle.
 <img height="165" src="https://github-readme-stats-chi-pied-47.vercel.app/api?username=Jonnyriam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark&hide_rank=true"/>
 <img height="165" src="https://github-readme-stats-chi-pied-47.vercel.app/api/top-langs/?username=Jonnyriam&hide_title=true&hide_border=true&count_private=true&theme=onedark&langs_count=8&layout=compact"/>
 
-<br/><br/>
-
-💬 <b>Open to backend / platform engineering roles</b>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:22d3ee&height=100&section=footer"/>
 
